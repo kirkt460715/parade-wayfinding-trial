@@ -1,0 +1,4943 @@
+{
+  "format_version": 1,
+  "assignments": [
+    {
+      "id": "trial-00-north",
+      "session": "trial-00",
+      "date": "2026-08-01",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-00-east",
+      "session": "trial-00",
+      "date": "2026-08-01",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-01-north",
+      "session": "trial-01",
+      "date": "2026-08-02",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-01-east",
+      "session": "trial-01",
+      "date": "2026-08-02",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-02-north",
+      "session": "trial-02",
+      "date": "2026-08-03",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-02-east",
+      "session": "trial-02",
+      "date": "2026-08-03",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-03-north",
+      "session": "trial-03",
+      "date": "2026-08-04",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-03-east",
+      "session": "trial-03",
+      "date": "2026-08-04",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-0",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-04-north",
+      "session": "trial-04",
+      "date": "2026-08-05",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-04-east",
+      "session": "trial-04",
+      "date": "2026-08-05",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-05-north",
+      "session": "trial-05",
+      "date": "2026-08-06",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-05-east",
+      "session": "trial-05",
+      "date": "2026-08-06",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-06-north",
+      "session": "trial-06",
+      "date": "2026-08-07",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-06-east",
+      "session": "trial-06",
+      "date": "2026-08-07",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-07-north",
+      "session": "trial-07",
+      "date": "2026-08-08",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-07-east",
+      "session": "trial-07",
+      "date": "2026-08-08",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-1",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-08-north",
+      "session": "trial-08",
+      "date": "2026-08-09",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-08-east",
+      "session": "trial-08",
+      "date": "2026-08-09",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-09-north",
+      "session": "trial-09",
+      "date": "2026-08-10",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-09-east",
+      "session": "trial-09",
+      "date": "2026-08-10",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": false,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-10-north",
+      "session": "trial-10",
+      "date": "2026-08-11",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": false,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-10-east",
+      "session": "trial-10",
+      "date": "2026-08-11",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-11-north",
+      "session": "trial-11",
+      "date": "2026-08-12",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "north",
+      "assigned": true,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    },
+    {
+      "id": "trial-11-east",
+      "session": "trial-11",
+      "date": "2026-08-12",
+      "start": "15:00",
+      "cutoff": "15:22",
+      "entry": "east",
+      "assigned": true,
+      "design_block": "week-2",
+      "assignment_probability": 0.5
+    }
+  ],
+  "sign_logs": [
+    {
+      "allocation": "trial-00-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-01T15:01:00"
+    },
+    {
+      "allocation": "trial-00-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-01T15:01:00"
+    },
+    {
+      "allocation": "trial-01-north",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-02T15:01:00"
+    },
+    {
+      "allocation": "trial-01-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-02T15:01:00"
+    },
+    {
+      "allocation": "trial-02-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-03T15:01:00"
+    },
+    {
+      "allocation": "trial-02-east",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-03T15:01:00"
+    },
+    {
+      "allocation": "trial-03-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-04T15:01:00"
+    },
+    {
+      "allocation": "trial-03-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-04T15:01:00"
+    },
+    {
+      "allocation": "trial-04-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-05T15:01:00"
+    },
+    {
+      "allocation": "trial-04-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-05T15:01:00"
+    },
+    {
+      "allocation": "trial-05-north",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-06T15:01:00"
+    },
+    {
+      "allocation": "trial-05-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-06T15:01:00"
+    },
+    {
+      "allocation": "trial-06-north",
+      "lit": false,
+      "usable_route": null,
+      "observed_at": "2026-08-07T15:01:00"
+    },
+    {
+      "allocation": "trial-06-east",
+      "lit": true,
+      "usable_route": null,
+      "observed_at": "2026-08-07T15:01:00"
+    },
+    {
+      "allocation": "trial-07-north",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-08T15:01:00"
+    },
+    {
+      "allocation": "trial-07-east",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-08T15:01:00"
+    },
+    {
+      "allocation": "trial-08-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-09T15:01:00"
+    },
+    {
+      "allocation": "trial-08-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-09T15:01:00"
+    },
+    {
+      "allocation": "trial-09-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-10T15:01:00"
+    },
+    {
+      "allocation": "trial-09-east",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-10T15:01:00"
+    },
+    {
+      "allocation": "trial-10-north",
+      "lit": false,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-11T15:01:00"
+    },
+    {
+      "allocation": "trial-10-east",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-11T15:01:00"
+    },
+    {
+      "allocation": "trial-11-north",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-12T15:01:00"
+    },
+    {
+      "allocation": "trial-11-east",
+      "lit": true,
+      "usable_route": "old-lane",
+      "observed_at": "2026-08-12T15:01:00"
+    }
+  ],
+  "observations": [
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-0",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-1",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-2",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-3",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-4",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-5",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-6",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-7",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-8",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-9",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-10",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-11",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-12",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-13",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-north",
+      "traveler": "v-0-0-14",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-0",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-1",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-2",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-3",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-4",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-5",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-6",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-7",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-8",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-9",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-10",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-11",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-12",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-13",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-14",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-00-east",
+      "traveler": "v-0-1-15",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-0",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-1",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-2",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-0-2",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15",
+      "parent_allocation": "trial-01-north"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-3",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-4",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-5",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-6",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-7",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-8",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-9",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-10",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-11",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-12",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-13",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-14",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-north",
+      "traveler": "v-1-0-15",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-0",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-1",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-2",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-3",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-4",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-5",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-6",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-7",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-8",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-9",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-10",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-11",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-12",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-13",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-14",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-15",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-01-east",
+      "traveler": "v-1-1-16",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-0",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-1",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-2",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-3",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-4",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-5",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-6",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-7",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-8",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-9",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-10",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-11",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-12",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-13",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-14",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-15",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-north",
+      "traveler": "v-2-0-16",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-0",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-1",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-2",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-3",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-4",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-5",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-6",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-7",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-8",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-9",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-10",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-11",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-12",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-13",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-14",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-15",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-16",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-02-east",
+      "traveler": "v-2-1-17",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-0",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-1",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-2",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-3",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-4",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-5",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-6",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-7",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-8",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-9",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-10",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-11",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-12",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-13",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-14",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-15",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-16",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-north",
+      "traveler": "v-3-0-17",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-0",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-1",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-2",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-3",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-4",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-5",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-6",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-7",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-8",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-9",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-10",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-11",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-12",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-13",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-14",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-15",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-16",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-17",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-03-east",
+      "traveler": "v-3-1-18",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-0",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-1",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-2",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-3",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-4",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-5",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-6",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-7",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-8",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-9",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-10",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-11",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-12",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-13",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-14",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-15",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-16",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-17",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-north",
+      "traveler": "v-4-0-18",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-0",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-1",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-2",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-3",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-4",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-5",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-6",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-7",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-8",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-9",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-10",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-11",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-12",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-13",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-14",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-15",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-16",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-17",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-18",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-04-east",
+      "traveler": "v-4-1-19",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-0",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-1",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-2",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-0-2",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15",
+      "parent_allocation": "trial-05-north"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-3",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-4",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-5",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-6",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-7",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-8",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-9",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-10",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-11",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-12",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-13",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-14",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-15",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-16",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-17",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-18",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-north",
+      "traveler": "v-5-0-19",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-0",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-1",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-2",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-3",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-4",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-5",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-6",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-7",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-8",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-9",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-10",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-11",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-12",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-13",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-14",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-15",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-16",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-17",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-18",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-19",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-05-east",
+      "traveler": "v-5-1-20",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-0",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-1",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-2",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-3",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-4",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-5",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-6",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-7",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-8",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-9",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-10",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-11",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-12",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-13",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-14",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-15",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-16",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-17",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-18",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-19",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-north",
+      "traveler": "v-6-0-20",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-0",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-1",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-2",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-3",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-4",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-5",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-6",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-7",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-8",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-9",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-10",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-11",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-12",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-13",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-14",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-15",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-16",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-17",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-18",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-19",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-20",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-06-east",
+      "traveler": "v-6-1-21",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-0",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-1",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-2",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-3",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-4",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-5",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-6",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-7",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-8",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-9",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-10",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-11",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-12",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-13",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-14",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-15",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-16",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-17",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-18",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-19",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-20",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-north",
+      "traveler": "v-7-0-21",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-0",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-1",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-2",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-3",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-4",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-5",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-6",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-7",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-8",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-9",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-10",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-11",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-12",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-13",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-14",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-15",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-16",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-17",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-18",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-19",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-20",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-21",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-07-east",
+      "traveler": "v-7-1-22",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-0",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-1",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-2",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-3",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-4",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-5",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-6",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-7",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-8",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-9",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-10",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-11",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-12",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-13",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-14",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-15",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-16",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-17",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-18",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-19",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-20",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-21",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-north",
+      "traveler": "v-8-0-22",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-0",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-1",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-2",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-3",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-4",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-5",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-6",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-7",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-8",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-9",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-10",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-11",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-12",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-13",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-08-east",
+      "traveler": "v-8-1-14",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-0",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-1",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-2",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-0-2",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15",
+      "parent_allocation": "trial-09-north"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-3",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-4",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-5",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-6",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-7",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-8",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-9",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-10",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-11",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-12",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-13",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-north",
+      "traveler": "v-9-0-14",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-0",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-1",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-2",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-3",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-4",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-5",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-6",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-7",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-8",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-9",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-10",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-11",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-12",
+      "started": "15:00",
+      "arrived": null,
+      "observed_until": "15:15",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-13",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-14",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-09-east",
+      "traveler": "v-9-1-15",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-0",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-1",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-2",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-3",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-4",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-5",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-6",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-7",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-8",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-9",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-10",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-11",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-12",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-13",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-14",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-north",
+      "traveler": "v-10-0-15",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-0",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-1",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-2",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-3",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-4",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-5",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-6",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-7",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-8",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-9",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-10",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-11",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-12",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-13",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-14",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-15",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-10-east",
+      "traveler": "v-10-1-16",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-0",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-1",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-2",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-3",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-4",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-5",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-6",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-7",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-8",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-9",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-10",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-11",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-12",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-13",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-14",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-15",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-north",
+      "traveler": "v-11-0-16",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-0",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-1",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-2",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-3",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-4",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-5",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-6",
+      "started": "15:00",
+      "arrived": "15:22",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-7",
+      "started": "15:00",
+      "arrived": "15:23",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-8",
+      "started": "15:00",
+      "arrived": "15:24",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-9",
+      "started": "15:00",
+      "arrived": "15:25",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-10",
+      "started": "15:00",
+      "arrived": "15:26",
+      "observed_until": "15:30",
+      "sighting": "unknown",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-11",
+      "started": "15:00",
+      "arrived": "15:27",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-12",
+      "started": "15:00",
+      "arrived": "15:16",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-13",
+      "started": "15:00",
+      "arrived": "15:17",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-14",
+      "started": "15:00",
+      "arrived": "15:18",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-15",
+      "started": "15:00",
+      "arrived": "15:19",
+      "observed_until": "15:30",
+      "sighting": "seen",
+      "choke": "river-way",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-16",
+      "started": "15:00",
+      "arrived": "15:20",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    },
+    {
+      "allocation": "trial-11-east",
+      "traveler": "v-11-1-17",
+      "started": "15:00",
+      "arrived": "15:21",
+      "observed_until": "15:30",
+      "sighting": "not_recorded",
+      "choke": "old-lane",
+      "choke_window": "15:05-15:15"
+    }
+  ],
+  "adjacency": [
+    {
+      "entries": [
+        "north",
+        "east"
+      ],
+      "accessible": "14:55-15:18",
+      "known_before": true
+    }
+  ],
+  "operational_limits": [
+    {
+      "link": "old-lane",
+      "from_time": "15:05",
+      "to_time": "15:15",
+      "max_people": 26
+    },
+    {
+      "link": "river-way",
+      "from_time": "15:05",
+      "to_time": "15:15",
+      "max_people": 19
+    }
+  ],
+  "closure_notices": [
+    {
+      "link": "old-lane",
+      "session": "extension-02",
+      "start": "15:04",
+      "end": "15:16",
+      "received_at": "2026-08-20T08:00:00"
+    }
+  ],
+  "tracking_gaps": [
+    {
+      "session": "trial-05",
+      "entry": "north",
+      "start": "15:10",
+      "end": "15:17"
+    },
+    {
+      "session": "trial-09",
+      "entry": "east",
+      "start": "15:12",
+      "end": "15:18"
+    }
+  ],
+  "extension_requests": [
+    {
+      "id": "extension-01",
+      "entries": [
+        "north"
+      ],
+      "date": "2026-08-21",
+      "start": "15:00",
+      "state": "signed",
+      "evidence_cutoff": "2026-08-16T18:00:00"
+    },
+    {
+      "id": "extension-02",
+      "entries": [
+        "north",
+        "east"
+      ],
+      "date": "2026-08-22",
+      "start": "15:00",
+      "state": "requested"
+    },
+    {
+      "id": "extension-03",
+      "entries": [
+        "east",
+        "south"
+      ],
+      "date": "2026-08-23",
+      "start": "15:00",
+      "state": "requested"
+    }
+  ],
+  "deployment_policy": {
+    "min_arrival_improvement_pp": 3,
+    "capacity_assessment": "upper_supported_bound"
+  }
+}
