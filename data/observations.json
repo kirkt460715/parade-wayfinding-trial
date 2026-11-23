@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "scenarios": [
+    {"event_id":"show-01","session":"festival-a","start":"15:00","group_id":"north-a","assigned_signs":["fork-n"],"lit_signs":["fork-n"],"closed_links":[],"route_capacity":{"old-lane":44,"river-way":30}},
+    {"event_id":"show-02","session":"festival-a","start":"15:00","group_id":"north-b","assigned_signs":[],"lit_signs":[],"closed_links":[],"route_capacity":{"old-lane":44,"river-way":30}},
+    {"event_id":"show-03","session":"festival-b","start":"16:00","group_id":"east-a","assigned_signs":["fork-e"],"lit_signs":[],"closed_links":["river-way"],"route_capacity":{"old-lane":40,"river-way":0}},
+    {"event_id":"show-04","session":"festival-b","start":"16:00","group_id":"east-b","assigned_signs":[],"lit_signs":[],"closed_links":[],"route_capacity":{"old-lane":40,"river-way":28}
+    }
+  ],
+  "links": [{"from":"square","to":"old-lane","minutes":7},{"from":"square","to":"river-way","minutes":9},{"from":"river-way","to":"village","minutes":8},{"from":"old-lane","to":"village","minutes":11}],
+  "journeys": [{"journey_id":"j-001","show":"show-01","traveler":"anon-1","entry":"north","links":["old-lane"],"arrived":true,"complete":true},{"journey_id":"j-002","show":"show-01","traveler":"anon-2","entry":"east","links":["river-way"],"arrived":true,"complete":true},{"journey_id":"j-003","show":"show-02","traveler":"anon-3","entry":"north","links":["old-lane"],"arrived":false,"complete":true},{"journey_id":"j-004","show":"show-03","traveler":"anon-4","entry":"east","links":[],"arrived":null,"complete":false}],
+  "interruptions": [{"event_id":"gap-01","show":"show-03","source":"tracker-east","from":"16:10","to":"16:18","reason":"collector_reconnect"}]
+}
